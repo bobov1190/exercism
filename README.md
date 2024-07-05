@@ -1,1 +1,1 @@
-# Exercism_Solutions
+Those are solutions for tasks from Exercism !
